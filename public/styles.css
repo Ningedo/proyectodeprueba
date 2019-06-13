@@ -1,0 +1,70 @@
+div{
+    font-size: 30px;
+    color: #ff1700;
+}
+body{
+    text-align: center !important;
+    margin: 50px;
+}
+#ewe{
+    color: blue;
+    font-size: 60px;
+    font-family: "Comic Sans MS";
+}
+.dorabola{
+    color: pink;
+    font-family: "Times New Roman";
+    font-size: 14px;
+    text-decoration: underline;
+}
+.boladora{
+    border: 1px solid green;
+}
+.haro {
+    border: 4px solid #000000;
+    width: 300px;
+    border-radius: 20px;
+    text-align: center;
+    padding-top: 5px;
+    margin: auto;
+    margin-top: 100px;
+    font-family: "Lucida Console", Monaco, monospace;
+    position: fixed !important;
+    top: 0;
+    left: 38%;
+}
+.haro > input{
+    width: 100%;
+}
+.cuadrado{
+    border: 4px solid #000000;
+    width: 25px;
+    float: left;
+}
+
+.gatoto{
+    display: none;
+}
+.btn-number:hover{
+    color: blue;
+}
+.carousel-item img{
+    height: 400px;
+}
+.card{
+    padding: 10px;
+}
+.fix-height{
+    height: 40px;
+    font-size: 16px;
+    font-weight: 700;
+}
+.col-3{
+    padding: 0 !important;
+}
+.pudin{
+    padding: 10px;
+}
+.row{
+    margin: 10px;
+}
